@@ -5,10 +5,10 @@
 The script "run_analysis.R" steps:
 1. Download zip file and unzip it
 2. First Merge training data
->2.1 subject is the first column
->2.2 activity is the second column
->2.3 the followins from X_train.txt
->2.4 merge to "train"
+ 2.1 subject is the first column
+ 2.2 activity is the second column
+ 2.3 the followins from X_train.txt
+ 2.4 merge to "train"
 3. Do test as the test, merge to "test"
 4. Merge "train" and "test" into "data
 5. get vector of descriptive variable names in "features.txt"
